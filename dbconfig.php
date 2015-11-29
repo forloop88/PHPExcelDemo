@@ -1,0 +1,9 @@
+<?php 
+	$phpexcel=array(
+			'host'=>"localhost",
+			"username"=>"phpexcel",
+			"password"=>"123456789",
+			"database"=>"phpexcel",
+			"charset"=>"utf8"
+	);
+?>
